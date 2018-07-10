@@ -1,0 +1,2 @@
+# dJango-2.0.7-Python-3.6.6-Step-By-Step-Beginner-Guide
+This is a tutorial for beginners to setup dJango 2.0.7 MVC framework, on windows. I have tested this with Python 3.6.6 so I strongly recommend you to install this version rather than any lesser or greater version of Python. This is a step by step guide and needs internet connection to work with dJango from scratch. I just introduced dJango and its working, but there is brief description of installation of python + dJango + pymysql + other useful tools which are necessary for development of a good project.
